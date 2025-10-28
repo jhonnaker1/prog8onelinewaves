@@ -20,7 +20,6 @@ main {
             txt.chrout(101)
             txt.chrout(101)
             txt.chrout(101)
-            txt.chrout(101)
         }
     }
 }
