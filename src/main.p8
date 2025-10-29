@@ -20,6 +20,7 @@ main {
             txt.chrout(101)
             txt.chrout(101)
             txt.chrout(101)
+            sys.wait(5)
         }
     }
 }
