@@ -30,7 +30,7 @@ main {
             txt.chrout(102)
             txt.chrout(102)
             txt.chrout(102)
-            sys.wait(5)
+            sys.wait(2)
         }
     }
 }
